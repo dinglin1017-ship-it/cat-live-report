@@ -26,4 +26,5 @@ https://dinglin1017-ship-it.github.io/cat-live-report/
 3. 支持在电脑端浏览器打开使用
 
 ## 预览
-![项目预览](page-bg.jpg)
+<img width="1862" height="908" alt="项目预览" src="https://github.com/user-attachments/assets/960dfcff-543e-4fdb-8225-e9173ebd9abb" />
+
